@@ -1,0 +1,52 @@
+#myModalLabel
+{
+	color: #4876FF;	
+	font-weight: bolder;
+}
+/*#modal
+{
+	background-color: blue;
+	color: white;
+	font-weight: bolder;
+	font-size: 30px;
+	font-variant: small-caps;
+}*/
+
+#img1
+{
+	height: 670px; 
+	width: 100%;
+}
+#img2
+{
+	height: 670px; 
+	width: 100%;
+}
+#img3
+{
+	height: 670px; 
+	width: 100%;
+}
+#img4
+{
+	height: 670px; 
+	width: 100%;
+}
+#img5
+{
+	height: 670px; 
+	width: 100%;
+}
+#myCarousel
+{
+	margin-top: 10px;
+}
+.active
+{
+	list-style-type: none;
+}
+#ustLogo
+{
+	width:100%;
+
+}

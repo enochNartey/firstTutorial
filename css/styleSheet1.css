@@ -1,0 +1,372 @@
+#myCarousel
+{
+	margin-top: 20px;
+}
+.allHead
+{
+	margin-top: px;
+	background-color:#C6E2FF;
+	color: ;
+	border-radius: 2px;
+}
+#gesaLogo
+{
+	width: 60px;
+	height: 60px;
+
+
+}
+.acesK
+{
+	color:white;
+	font-family: sans-serif georgia serif;
+}
+.acesK:hover
+{
+	font-size: 21px;
+}
+#aboutUs
+{
+	color: white;
+	font-weight: bolder;
+	font-size: 18px;
+}
+#contact
+{
+	color: white; 
+	font-weight: bolder;
+	font-size: 18px;
+}
+#gallery
+{
+	color: white; 
+	font-weight: bolder;
+	font-size: 18px;
+}
+.logo
+{
+	height: 50px; 
+	width: 70px;
+	padding: 0px;
+
+}
+#modal
+{
+	background-color: blue;
+	color: white;
+	font-weight: bolder;
+	font-size: 30px;
+	font-variant: small-caps;
+}
+#myModalLabel
+{
+	color: #4876FF;	
+	font-weight: bolder;
+}
+
+#img1
+{	
+	width:1024px; 
+	height: 400px; 
+}
+#img2
+{	
+	width:1024px; 
+	height: 400px; 
+}
+#img3
+{	
+	width:1024px; 
+	height: 400px; 
+}
+#img4
+{	
+	width:1024px; 
+	height: 400px; 
+}
+#img5
+{	
+/*	border-radius: 20px;*/
+	width:1024px; 
+	height: 400px; 
+}
+#img6
+{	
+	/*border-radius: 20px;*/
+	width:1024px; 
+	height: 400px; 
+}
+#img7
+{	
+	/*border-radius: 20px;*/
+	width:1024px; 
+	height: 400px; 
+}
+#img8
+{	
+	/*border-radius: 20px;*/
+	width:1024px; 
+	height: 400px; 
+}
+#img9
+{	
+	/*border-radius: 20px;*/
+	width:1024px; 
+	height: 400px; 
+}
+#img10
+{	
+	/*border-radius: 20px;*/
+	width:1024px; 
+	height: 400px; 
+}
+#fbLogo
+{
+	width: 30px; 
+	height: 25px;
+}
+#mailLogo
+{
+	width: 30px; 
+	height: 25px;
+}
+#skypeLogo
+{
+	width: 30px; 
+	height: 25px;
+}
+#instaLogo
+{
+	width: 50px; 
+	height: 25px;
+}
+
+.asocia:hover
+{
+	font-weight: bolder;
+}
+.asocia1:hover
+{
+	font-weight: bolder;
+}
+#nav10
+{
+	background-color:#87CEFA;
+}
+#ass
+{
+	color: white;
+}
+#ass1
+{ 
+	color: white;
+}
+#Gal1
+{
+	height: 210px; 
+	width: 300px;
+	border-radius: 10px;
+}
+#Gal2
+{
+	height: 210px; 
+	width: 300px;
+	border-radius: 10px;	
+}
+#Gal3
+{
+	height: 210px; 
+	width: 300px;
+	border-radius: 10px;
+}
+#Gal4
+{
+	height: 210px; 
+	width: 300px;
+	border-radius: 10px;
+}
+#Gal5
+{
+	height: 210px; 
+	width: 300px;
+	border-radius: 10px;
+}
+#Gal6
+{
+	height: 210px; 
+	width: 300px;
+	border-radius: 10px;
+}
+#Gal7
+{
+	height: 210px; 
+	width: 300px;
+	border-radius: 10px;
+}
+#Gal8
+{
+	height: 210px; 
+	width: 300px;
+	border-radius: 10px;
+}
+#Gal9
+{
+	height: 210px; 
+	width: 300px;
+	border-radius: 10px;
+}
+#Gal10
+{
+	height: 210px; 
+	width: 300px;
+	border-radius: 10px;
+}
+#pers1
+{
+	opacity:1;
+}
+#pers1:hover
+{
+	opacity:0.5;
+}
+#pers2
+{
+	opacity: 1; 
+}
+#pers2:hover
+{
+	opacity: 0.5; 
+}
+
+#ustLogo
+{
+	
+	border-radius: 6px;
+
+}
+#knustHeader
+{
+	padding: 5px;
+	color:black;
+}
+
+#carouselContainer
+{
+	margin-bottom: 10px;
+	margin-top:5px; 
+}
+#carouselSlide
+{
+	margin-top: 10px;
+}
+.footerSection
+{
+	background-color: #87CEFA;
+	border-radius: 3px;
+	list-style-type: none;
+}
+.footerCopyright
+{
+	list-style-type: none;
+	font-size: 13px;
+	padding-bottom: 30px;
+}
+#footerId
+{
+	margin-top: 30px;
+	color:#1F1F1F;
+	font-size: 13px;
+	padding-bottom: 10px;
+}
+#footerImg
+{
+	height: 30px;
+	width:30px;
+}
+#footerMail 
+{
+	height: 25px; 
+	width: 30px;
+}
+.ftrCnt:hover
+{
+	font-size: 15px;
+}
+#newsImg1
+{
+	height: 210px; 
+	width: 300px;
+	border-radius: 10px;
+}
+#newsImg2
+{
+	height: 210px; 
+	width: 300px;
+	border-radius: 10px;	
+}
+.carouselCaption
+{
+	font-size: 15px;
+	margin-top: 100px;
+}
+#row1
+{
+	text-align: center;
+}
+#row2
+{
+	font-size: 11px;
+	font-style: italic;
+}
+#row2B
+{
+	font-style: none;
+}
+#navBar
+{
+	margin-top: 10px;	
+}
+
+#navContent1
+{	
+	font-variant:;
+	font-weight: ;
+	font-size: 16px;
+}
+
+/*Dropdown Styling*/
+.drop{
+	    background-color: ;
+	    color: white;
+	    padding: 16px;
+	    font-size: 16px;
+	    border: none;
+	    cursor: pointer;
+}
+
+.dropdown {
+	    position: relative;
+	    display: inline-block;
+	}
+.dropdown-content {
+	    display: none;
+	    position: absolute;
+	    background-color: #f9f9f9;
+	    min-width: 200px;
+	    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	}
+.dropdown-content a {
+	    color: 4DA6FF;
+	    padding: 12px 16px;
+	    text-decoration: none;
+	    display: block;
+	}
+.dropdown-content a:hover {
+	background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+	    display: block;}
+
+.dropdown:hover .drop {
+	    background-color:;
+	}	
